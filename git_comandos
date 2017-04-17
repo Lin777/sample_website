@@ -1,0 +1,5 @@
+git init
+git add -A
+git commit -m "mensaje"
+# git checkout gh-pages -> crear una rama
+git push -u origin gh-pages
